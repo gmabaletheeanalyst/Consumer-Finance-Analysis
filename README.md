@@ -13,7 +13,8 @@ This comprehensive analysis of Goldman Sachs Consumer Finance loan portfolio rev
 
 ## Portfolio Overview
 
-<img width="918" height="512" alt="1" src="https://github.com/user-attachments/assets/a9415942-52bc-43ab-98ca-9e9190ff7219" />
+<img width="919" height="510" alt="1" src="https://github.com/user-attachments/assets/cbb51aa3-60cb-46ac-83c3-d9f3114970ce" />
+
 
 
 
