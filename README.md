@@ -13,7 +13,8 @@ This comprehensive analysis of Goldman Sachs Consumer Finance loan portfolio rev
 
 ## Portfolio Overview
 
-<img width="909" height="512" alt="1" src="https://github.com/user-attachments/assets/bc88316e-35e4-44cc-afbd-303750dfb978" />
+<img width="918" height="512" alt="1" src="https://github.com/user-attachments/assets/a9415942-52bc-43ab-98ca-9e9190ff7219" />
+
 
 
 ### Core Metrics
@@ -50,7 +51,9 @@ This comprehensive analysis of Goldman Sachs Consumer Finance loan portfolio rev
 
 This 13.29% high-risk concentration represents approximately $539M in disbursed capital requiring enhanced monitoring and collection protocols.
 
-<img width="917" height="513" alt="2" src="https://github.com/user-attachments/assets/3cde25ea-7df6-46b1-8e82-d750f71cf02d" />
+<img width="917" height="513" alt="2" src="https://github.com/user-attachments/assets/28390f09-8e84-40d8-ba83-e79d43793915" />
+
+
 
 
 ### Credit Score Analysis
@@ -155,7 +158,8 @@ Default rates increase substantially across lower credit grades:
 
 ## Regional Performance Analysis
 
-<img width="908" height="510" alt="4" src="https://github.com/user-attachments/assets/fb0a31a0-f6cb-45d2-9c11-8b875fdaa391" />
+<img width="921" height="507" alt="1" src="https://github.com/user-attachments/assets/1c407fba-e399-432a-911f-6c53b41cc027" />
+
 
 
 ### Geographic Risk Distribution
@@ -190,7 +194,8 @@ Default rates increase substantially across lower credit grades:
 
 ## Loan Repayment Trends
 
-<img width="913" height="513" alt="5" src="https://github.com/user-attachments/assets/498a7b69-7757-4801-9601-964b91387c05" />
+<img width="925" height="514" alt="1" src="https://github.com/user-attachments/assets/34657425-2e39-4cee-890f-ee3085ac6b81" />
+
 
 
 ### Delinquency & Default Trajectory
@@ -225,7 +230,8 @@ The multi-year trend analysis reveals concerning patterns:
 
 ## Financial Performance
 
-<img width="913" height="513" alt="6" src="https://github.com/user-attachments/assets/c887aa53-1770-4c56-a564-b21b7388a853" />
+<img width="915" height="510" alt="1" src="https://github.com/user-attachments/assets/59a9db8f-2406-428a-8e90-6a5be756c3ae" />
+
 
 
 ### Revenue Generation
